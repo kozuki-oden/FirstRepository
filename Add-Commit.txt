@@ -7,11 +7,11 @@ ____________
 
 	eg: $git add Config.txt
 
-- TO add all the files 
+- To add all the files 
 	
 	$git add .
 
-- TO commit the staged files run the command:
+- To commit the staged files run the command:
 
 	$git commit -m "<message>"
 	
