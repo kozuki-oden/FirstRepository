@@ -1,0 +1,18 @@
+ADD & COMMIT
+____________
+
+- To add a file to the staging area run the command:
+
+	$git add <Filename>
+
+	eg: $git add Config.txt
+
+- TO add all the files 
+	
+	$git add .
+
+- TO commit the staged files run the command:
+
+	$git commit -m "<message>"
+	
+	eg: $git commit -m "first commit"
