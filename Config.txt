@@ -1,0 +1,9 @@
+Commands to configure username and email
+________________________________________
+
+configure username and user email as it will be assigned to the commits
+
+On git bash run the following commands:
+
+$git config --global user.name "<Enter Name>"
+$git config --global user.email "<Enter Email>"
