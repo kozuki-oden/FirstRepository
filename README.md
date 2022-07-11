@@ -8,4 +8,4 @@ It focuses mainly on:
 - checking the status of the commits 
 - how to update changes to the local files
 
-It will keep updating as I keep working on GitHub
+It will keep updating as I keep working on GitHub 
